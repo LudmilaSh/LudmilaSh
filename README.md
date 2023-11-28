@@ -26,6 +26,8 @@ _____
 _____
 #### Примеры моих работ
 [Дипломный работа по тестированию мобильного приложения В хосписе](https://github.com/LudmilaSh/DIPLOMA)
+[Домашняя работа Selenium](https://github.com/LudmilaSh/Selenium/tree/main)
+[Пример работы по теме Page Object](https://github.com/LudmilaSh/PageObject/tree/main)
 _____
 #### Сертификаты
 

@@ -25,12 +25,15 @@ _____
 - Selenium
 _____
 #### Примеры моих работ
-[Дипломный работа по тестированию мобильного приложения В хосписе](https://github.com/LudmilaSh/DIPLOMA)
-[Домашняя работа Selenium](https://github.com/LudmilaSh/Selenium/tree/main)
-[Пример работы по теме Page Object](https://github.com/LudmilaSh/PageObject/tree/main)
+- [Дипломный работа по тестированию мобильного приложения В хосписе](https://github.com/LudmilaSh/DIPLOMA)
+- [Домашняя работа Selenium](https://github.com/LudmilaSh/Selenium/tree/main)
+- [Пример работы по теме Page Object](https://github.com/LudmilaSh/PageObject/tree/main)
 _____
-#### Сертификаты
-
+#### Сертификаты Нетологии
+- [Git - система контроля версий](https://github.com/LudmilaSh/LudmilaSh/blob/main/Git.pdf)
+- [JAVA для тестировщиков](https://github.com/LudmilaSh/LudmilaSh/blob/main/java.pdf)
+- [Автоматизация тестирования веб-интерфейсов](https://github.com/LudmilaSh/LudmilaSh/blob/main/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D1%82%D0%B5%D1%81%D1%82%20%D0%B2%D0%B5%D0%B1.pdf)
+- [Тестирование мобильных приложений](https://github.com/LudmilaSh/LudmilaSh/blob/main/%D1%82%D0%B5%D1%81%D1%82%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%20%D0%BF%D1%80%D0%B8%D0%BB.pdf)
 
 <!--
 **LudmilaSh/LudmilaSh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
